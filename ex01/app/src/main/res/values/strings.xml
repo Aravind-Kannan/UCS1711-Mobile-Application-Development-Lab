@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ex01</string>
+    <string name="language">Language</string>
+    <string name="dd_mm_yyyy">DD/MM/YYYY</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="dob">DOB</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="enter_phone">Enter Phone</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="others">Others</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="tamil">Tamil</string>
+    <string name="submit">Submit</string>
+</resources>
